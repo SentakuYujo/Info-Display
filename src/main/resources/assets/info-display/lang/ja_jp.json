@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "情報表示切り替え",
+  "category.info-display": "情報表示MOD",
+  "displaymode.all_info": "表示モード: 全情報",
+  "displaymode.coords_only": "表示モード: 座標のみ",
+  "displaymode.fps_only": "表示モード: FPSのみ",
+  "displaymode.clock_moon_day": "表示モード: 時計、月相、日数",
+  "displaymode.armor_only": "表示モード: 防具のみ",
+  "displaymode.off": "表示モード: オフ"
+}

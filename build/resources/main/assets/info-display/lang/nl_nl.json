@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Info-weergave wisselen",
+  "category.info-display": "Info-weergave",
+  "displaymode.all_info": "Weergavemodus: Alle info",
+  "displaymode.coords_only": "Weergavemodus: Alleen coördinaten",
+  "displaymode.fps_only": "Weergavemodus: Alleen FPS",
+  "displaymode.clock_moon_day": "Weergavemodus: Klok, Maan & Dag",
+  "displaymode.armor_only": "Weergavemodus: Alleen pantser",
+  "displaymode.off": "Weergavemodus: Uit"
+}

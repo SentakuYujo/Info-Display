@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Alternar Pantalla de Información",
+  "category.info-display": "Mod de Pantalla de Información",
+  "displaymode.all_info": "Modo de Pantalla: Toda la Info",
+  "displaymode.coords_only": "Modo de Pantalla: Solo Coordenadas",
+  "displaymode.fps_only": "Modo de Pantalla: Solo FPS",
+  "displaymode.clock_moon_day": "Modo de Pantalla: Reloj, Luna y Día",
+  "displaymode.armor_only": "Modo de Pantalla: Solo Armadura",
+  "displaymode.off": "Modo de Pantalla: Apagado"
+}

@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Перемкнути відображення інформації",
+  "category.info-display": "Відображення інформації",
+  "displaymode.all_info": "Режим відображення: Вся інформація",
+  "displaymode.coords_only": "Режим відображення: Лише координати",
+  "displaymode.fps_only": "Режим відображення: Лише FPS",
+  "displaymode.clock_moon_day": "Режим відображення: Годинник, Місяць та День",
+  "displaymode.armor_only": "Режим відображення: Лише броня",
+  "displaymode.off": "Режим відображення: Вимкнено"
+}

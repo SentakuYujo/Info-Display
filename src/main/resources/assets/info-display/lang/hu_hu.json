@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Infó kijelző váltása",
+  "category.info-display": "Infó kijelző",
+  "displaymode.all_info": "Megjelenítési mód: Összes infó",
+  "displaymode.coords_only": "Megjelenítési mód: Csak koordináták",
+  "displaymode.fps_only": "Megjelenítési mód: Csak FPS",
+  "displaymode.clock_moon_day": "Megjelenítési mód: Óra, Hold és Nap",
+  "displaymode.armor_only": "Megjelenítési mód: Csak páncél",
+  "displaymode.off": "Megjelenítési mód: Ki"
+}

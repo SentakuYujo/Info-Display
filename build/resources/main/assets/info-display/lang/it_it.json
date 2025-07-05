@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Attiva/Disattiva Info Display",
+  "category.info-display": "Info Display",
+  "displaymode.all_info": "Modalità display: Tutte le info",
+  "displaymode.coords_only": "Modalità display: Solo coordinate",
+  "displaymode.fps_only": "Modalità display: Solo FPS",
+  "displaymode.clock_moon_day": "Modalità display: Orologio, Luna & Giorno",
+  "displaymode.armor_only": "Modalità display: Solo armatura",
+  "displaymode.off": "Modalità display: Spento"
+}

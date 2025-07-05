@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Vaihda infonäyttö",
+  "category.info-display": "Infonäyttö",
+  "displaymode.all_info": "Näyttötila: Kaikki tiedot",
+  "displaymode.coords_only": "Näyttötila: Vain koordinaatit",
+  "displaymode.fps_only": "Näyttötila: Vain FPS",
+  "displaymode.clock_moon_day": "Näyttötila: Kello, Kuu & Päivä",
+  "displaymode.armor_only": "Näyttötila: Vain panssari",
+  "displaymode.off": "Näyttötila: Pois päältä"
+}

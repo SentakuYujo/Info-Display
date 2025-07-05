@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Toggle Info Display",
+  "category.info-display": "Info Display",
+  "displaymode.all_info": "Display Mode: All Info",
+  "displaymode.coords_only": "Display Mode: Coords Only",
+  "displaymode.fps_only": "Display Mode: FPS Only",
+  "displaymode.clock_moon_day": "Display Mode: Clock, Moon & Day",
+  "displaymode.armor_only": "Display Mode: Armor Only",
+  "displaymode.off": "Display Mode: Off"
+}

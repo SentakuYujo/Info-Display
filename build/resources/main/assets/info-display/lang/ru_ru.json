@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Переключить отображение информации",
+  "category.info-display": "Отображение информации",
+  "displaymode.all_info": "Режим отображения: Вся информация",
+  "displaymode.coords_only": "Режим отображения: Только координаты",
+  "displaymode.fps_only": "Режим отображения: Только FPS",
+  "displaymode.clock_moon_day": "Режим отображения: Время, Луна и День",
+  "displaymode.armor_only": "Режим отображения: Только броня",
+  "displaymode.off": "Режим отображения: Выкл."
+}

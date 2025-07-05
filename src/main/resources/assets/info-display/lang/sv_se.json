@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Växla informationsvisning",
+  "category.info-display": "Informationsvisning",
+  "displaymode.all_info": "Visningsläge: All info",
+  "displaymode.coords_only": "Visningsläge: Endast koordinater",
+  "displaymode.fps_only": "Visningsläge: Endast FPS",
+  "displaymode.clock_moon_day": "Visningsläge: Klocka, Måne & Dag",
+  "displaymode.armor_only": "Visningsläge: Endast rustning",
+  "displaymode.off": "Visningsläge: Av"
+}

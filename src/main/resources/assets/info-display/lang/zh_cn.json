@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "切换信息显示",
+  "category.info-display": "信息显示",
+  "displaymode.all_info": "显示模式: 所有信息",
+  "displaymode.coords_only": "显示模式: 仅坐标",
+  "displaymode.fps_only": "显示模式: 仅帧率",
+  "displaymode.clock_moon_day": "显示模式: 时间, 月相 & 天数",
+  "displaymode.armor_only": "显示模式: 仅护甲",
+  "displaymode.off": "显示模式: 关闭"
+}

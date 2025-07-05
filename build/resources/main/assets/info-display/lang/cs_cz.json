@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Přepnout zobrazení informací",
+  "category.info-display": "Zobrazení informací",
+  "displaymode.all_info": "Režim zobrazení: Všechny informace",
+  "displaymode.coords_only": "Režim zobrazení: Pouze souřadnice",
+  "displaymode.fps_only": "Režim zobrazení: Pouze FPS",
+  "displaymode.clock_moon_day": "Režim zobrazení: Hodiny, Měsíc & Den",
+  "displaymode.armor_only": "Režim zobrazení: Pouze brnění",
+  "displaymode.off": "Režim zobrazení: Vypnuto"
+}

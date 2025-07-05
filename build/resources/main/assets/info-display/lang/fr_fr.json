@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Activer/Désactiver l'affichage d'infos",
+  "category.info-display": "Affichage d'infos",
+  "displaymode.all_info": "Mode d'affichage: Toutes les infos",
+  "displaymode.coords_only": "Mode d'affichage: Seulement les coordonnées",
+  "displaymode.fps_only": "Mode d'affichage: Seulement les FPS",
+  "displaymode.clock_moon_day": "Mode d'affichage: Horloge, Lune & Jour",
+  "displaymode.armor_only": "Mode d'affichage: Seulement l'armure",
+  "displaymode.off": "Mode d'affichage: Désactivé"
+}

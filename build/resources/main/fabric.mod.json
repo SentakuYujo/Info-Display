@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "infodisplay",
+  "version": "1.0.0",
+  "name": "Info Display",
+  "description": "A client-side Fabric mod for Minecraft 1.21.x that displays your current FPS and XYZ coordinates on screen. Features a toggleable display mode (FPS & Coords, Coords Only, FPS Only, Off) activated by the F4 key, with a subtle transparent background for readability.",
+  "authors": [
+    "Sentaku"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/info-display/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.display.InfoDisplay"
+    ],
+    "server": [],
+    "fabric-datagen": [],
+    "fabric-gametest": [],
+    "preLaunch": []
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {},
+  "mixins": [],
+  "breaks": {},
+  "contact": {},
+  "custom": {},
+  "jars": [],
+  "conflicts": {},
+  "languageAdapters": {},
+  "recommends": {},
+  "contributors": []
+}

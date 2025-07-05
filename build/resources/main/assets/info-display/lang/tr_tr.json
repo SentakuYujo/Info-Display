@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Bilgi Ekranını Aç/Kapat",
+  "category.info-display": "Bilgi Ekranı",
+  "displaymode.all_info": "Görüntü Modu: Tüm Bilgiler",
+  "displaymode.coords_only": "Görüntü Modu: Sadece Koordinatlar",
+  "displaymode.fps_only": "Görüntü Modu: Sadece FPS",
+  "displaymode.clock_moon_day": "Görüntü Modu: Saat, Ay & Gün",
+  "displaymode.armor_only": "Görüntü Modu: Sadece Zırh",
+  "displaymode.off": "Görüntü Modu: Kapalı"
+}

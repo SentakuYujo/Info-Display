@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Info-Anzeige umschalten",
+  "category.info-display": "Info-Anzeige Mod",
+  "displaymode.all_info": "Anzeigemodus: Alle Infos",
+  "displaymode.coords_only": "Anzeigemodus: Nur Koordinaten",
+  "displaymode.fps_only": "Anzeigemodus: Nur FPS",
+  "displaymode.clock_moon_day": "Anzeigemodus: Uhrzeit, Mond & Tag",
+  "displaymode.armor_only": "Anzeigemodus: Nur Rüstung",
+  "displaymode.off": "Anzeigemodus: Aus"
+}

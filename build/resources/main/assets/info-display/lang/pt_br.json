@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "Przełącz wyświetlanie informacji",
+  "category.info-display": "Wyświetlanie informacji",
+  "displaymode.all_info": "Tryb wyświetlania: Wszystkie informacje",
+  "displaymode.coords_only": "Tryb wyświetlania: Tylko współrzędne",
+  "displaymode.fps_only": "Tryb wyświetlania: Tylko FPS",
+  "displaymode.clock_moon_day": "Tryb wyświetlania: Zegar, Księżyc i Dzień",
+  "displaymode.armor_only": "Tryb wyświetlania: Tylko pancerz",
+  "displaymode.off": "Tryb wyświetlania: Wyłączony"
+}

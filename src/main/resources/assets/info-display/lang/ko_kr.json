@@ -1,0 +1,10 @@
+{
+  "key.info-display.toggle": "정보 표시 전환",
+  "category.info-display": "정보 표시",
+  "displaymode.all_info": "표시 모드: 모든 정보",
+  "displaymode.coords_only": "표시 모드: 좌표만",
+  "displaymode.fps_only": "표시 모드: FPS만",
+  "displaymode.clock_moon_day": "표시 모드: 시계, 달 & 일",
+  "displaymode.armor_only": "표시 모드: 갑옷만",
+  "displaymode.off": "표시 모드: 끄기"
+}
